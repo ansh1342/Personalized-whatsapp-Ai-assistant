@@ -1,6 +1,0 @@
-flask
-twilio
-openai
-python-dotenv
-mysql-connector-python
-gunicorn
